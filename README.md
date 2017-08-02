@@ -1,26 +1,11 @@
-# CV of Wenli Zhang
+# CV of Albert Lin
 
 #### Web Front-End Engineer
 
-![](https://raw.githubusercontent.com/Ovilia/cv/gh-pages/img/cv.png)
+![](https://github.com/BaiweiLin/Albert.github.io/blob/master/img/CV.png)
 
-Designed and Implemented by Wenli Zhang
+Designed and Implemented by Albert Lin
 
-### Online Version
-
-Third-party library: [pagePiling.js](https://github.com/alvarotrigo/pagePiling.js)
-
-Tools: SCSS, bower, gulp
-
-### PDF Version
-
-Source: [InDesign Source File](https://raw.githubusercontent.com/Ovilia/cv/gh-pages/res/cv.indd)
-
-Tools: InDesign
-
-### About Permission
-
-The project is open-sourced under MIT license. You can use either Online or PDF version without an explicit statement or link to this project. But since my CV got quite popular recently, it's recommended that you do so for your own convenience.
 
 
 
